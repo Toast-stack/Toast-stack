@@ -35,4 +35,4 @@ Hi! I'm Zachary—a **software developer** and **cybersecurity enthusiast**. Wit
 
 ## 📫 Contact  
 Feel free to reach out or connect:  
-- LinkedIn: [Zachary Nicholas](www.linkedin.com/in/zachary-nicholas1341)
+- LinkedIn: [Zachary Nicholas](https://www.linkedin.com/in/zachary-nicholas1341/)
