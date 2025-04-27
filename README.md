@@ -1,26 +1,38 @@
-# 👋 Hi, I'm Zachary!
-I'm a software developer and cybersecurity enthusiast with a strong foundation from Southern New Hampshire University (SNHU) and a disciplined work ethic honed during my time in the Marine Corps. My journey combines academic knowledge, hands-on projects, and real-world experience, all fueling my passion for creating secure and efficient solutions through Python automation and cybersecurity tools.
+# 🍞 Zachary's Toast-Stack
 
-## 🚀 I’m currently working on:
-- Developing Python-based automation tools to streamline security processes and enhance operational efficiency.
-- Building secure scripts for data visualization and vulnerability detection to address modern cybersecurity challenges.
+## 👋 Introduction  
+Hi! I'm Zachary—a **software developer** and **cybersecurity enthusiast**. With a background in programming, scripting, and secure coding, I thrive on solving complex problems and building scalable, secure solutions. My journey from the Marine Corps to tech has been fueled by curiosity, discipline, and a relentless drive to improve.
 
-## 🌱 I’m currently learning:
-- Advanced cybersecurity techniques, including penetration testing and risk mitigation strategies.
-- Exploring Python libraries and frameworks to improve automation workflows and develop innovative solutions.
+## 🔭 Current Projects  
+- **SecureStack Toolkit**: A modular cybersecurity tool for network analysis, vulnerability scanning, and reporting.  
+- **Python Vulnerability Scanner**: Detects network and web vulnerabilities with features like port scanning and HTTP analysis.  
+- **Python Log File Analyzer**: Developed to parse SSH logs and detect brute force attempts by flagging failed login patterns.  
+- **Rust URL Shortener**: Exploring secure web development with Rust while honing secure coding practices.  
+- **Go HTTP Server**: Built a basic HTTP server in Go to understand web application mechanics and improve backend development skills.  
+- **OpenGL 3D Visualization**: Crafting interactive 3D scenes with C++ to enhance visualization skills.
 
-## 🤝 I’m looking to collaborate on:
-- Projects focused on cybersecurity automation, vulnerability scanning, or secure software development.
-- Open-source initiatives that aim to build practical tools for cybersecurity professionals and developers.
+## 📚 Currently Learning  
+- **Programming**: Python, Rust, Go, C++, and Java  
+- **Scripting**: Bash and PowerShell  
+- **Cybersecurity**: Advanced incident response techniques and secure development workflows  
+- **Data Analysis**: Using Python libraries in Jupyter Notebook for visualization and analysis  
 
-## 💡 I’m looking for help with:
-- Improving the scalability and functionality of automation tools for large-scale applications.
-- Exploring innovative ways to integrate cybersecurity measures seamlessly into development workflows.
+## 🤝 Collaboration Interests  
+- **Open-source projects**: Especially in cybersecurity and automation tools  
+- **Secure Development**: Aligning workflows with NIST CSF and ISO 27001  
+- **System Optimization**: Leveraging scripting to streamline repetitive tasks  
 
-## 💬 Ask me about:
-- Python scripting for automation and data analysis.
-- Implementing secure coding practices to safeguard sensitive systems and data.
-- Lessons from my journey from the Marine Corps to software development and cybersecurity.
+## 💡 Ask Me About  
+- Secure coding practices  
+- Python scripting and automation  
+- Rust and Go programming for security tools  
+- Insights from my journey from the Marine Corps to software development  
 
-## 📫 How to reach me:
-- Drop me a message here on GitHub, or feel free to connect with me on [LinkedIn](www.linkedin.com/in/zachary-nicholas1341).
+## 🆘 Areas Where I’d Love Help  
+- Optimizing multi-threading in cybersecurity tools  
+- Enhancing UI/UX in full-stack projects  
+- Advanced cryptographic techniques  
+
+## 📫 Contact  
+Feel free to reach out or connect:  
+- LinkedIn: [Zachary Nicholas](www.linkedin.com/in/zachary-nicholas1341)
