@@ -1,76 +1,71 @@
-# 🍞 Zachary's Toast-Stack
+# 🍞 Toast-Stack | Zachary Nicholas
 
 ## 👋 About Me
 
-Hi, I'm **Zachary Nicholas** – a cybersecurity specialist and software developer dedicated to building secure, scalable, and robust solutions. My journey from the Marine Corps to tech has equipped me with a structured approach to tackling complex security challenges, especially in threat detection, incident response, automation, and secure coding.
+Hi, I'm **Zachary Nicholas** — a cybersecurity specialist and software developer focused on creating secure, scalable solutions. My journey from the **United States Marine Corps** to the world of tech has shaped how I approach complex challenges with structure, precision, and intent. I specialize in secure backend development, threat detection, automation, and incident response, blending engineering with a strong security-first mindset.
+
 
 ---
 
 ## 🔭 Current Projects
 
-- **🛡️ SecureStack Toolkit**  
-  A modular cybersecurity suite for network analysis, vulnerability scanning, and detailed security reporting.
+A sample of the projects I’ve built and refined:
+- 🛡️ **SecureStack Toolkit**
+Modular suite for network analysis, vulnerability scanning, and security reporting.
+- 🧰 **SysAdmin Toolkit**
+PowerShell-based utility for system diagnostics, automation, and hardening. Includes event log parsing, service auditing, registry monitoring, and customizable remediation workflows.
+- 🌐 **SecOps-Lab**
+A lightweight, modular project designed to simulate cloud security events, perform threat intelligence correlation, and display alerts on a simple Flask dashboard. Highlights cloud security monitoring, automated incident response, and dashboard development.
+- ✈️ **LiveFlightMap**
+Real-time aircraft tracking using Flask and Folium. Processes live flight data with PostgreSQL and visualizes routes in-browser—bridging backend architecture with aviation curiosity.
 
-- **🔍 Python Vulnerability Scanner**  
-  Detects network and web vulnerabilities through advanced port scanning and HTTP header analysis.
-
-- **📑 Python Log File Analyzer**  
-  Parses SSH logs to detect brute-force attempts and flag anomalous login patterns for enhanced incident response.
-
-- **🦀 Rust URL Shortener**  
-  A lightweight, security-focused URL shortener built in Rust, emphasizing speed, simplicity, and robustness.
-
-- **🚀 Go HTTP Server**  
-  An exploratory project in backend security and web mechanics using Go.
-
-- **🎮 OpenGL 3D Visualization**  
-  Interactive 3D visualization projects using C++ and OpenGL for technical exploration and data interpretation.
-
-- **✈️ Flight Tracker & Map Visualization System**  
-  A real‑time flight tracking project that fetches live flight data from an API, processes it using PostgreSQL, and visualizes the results with Folium on a dynamic Flask‑powered web page. This project not only integrates various programming concepts but also fuels my growing interest in advanced SQL and database optimization.
 
 ---
 
 ## 📚 Currently Learning
 
-- **Programming Languages:** Python, Rust, Go, C++, Java  
-- **Scripting & Automation:** PowerShell and Bash for efficient IT workflows  
-- **Cybersecurity:** Threat intelligence, SIEM analysis, and secure coding practices  
-- **Data and Database Systems:** Advanced SQL, PostgreSQL optimization, and effective database design  
-- **Data Analysis:** Leveraging Python-based visualization tools and security log analytics
+- **Languages**: Python, Rust, Go, C++, PowerShell, Bash, Assembly
+- **Cybersecurity**: Threat intelligence, secure coding, SIEM workflows
+- **Database Optimization**: PostgreSQL tuning, advanced SQL
+- **Automation**: Workflow scripting via PowerShell and Bash
+- **Data Visualization**: Python tooling for security log analytics
+- **Systems Management**: Docker and VirtualBox virtualization
+
 
 ---
 
 ## 🤝 Collaboration Interests
+Let’s connect over projects like:
+- Open-source security tooling and SIEM pipelines
+- DevSecOps aligned with NIST CSF and ISO 27001
+- Scripting and database optimization for system performance
+- Backend services with security at the core
 
-- **Open-source Cybersecurity Tools:** Contributing to security automation, SIEM configurations, and threat detection initiatives.
-- **Secure Software Development:** Projects that implement frameworks like NIST CSF and ISO 27001, ensuring best practices and robust application security.
-- **System Optimization & Scripting:** Utilizing PowerShell, Bash, and advanced database techniques to streamline IT workflows and enhance system performance.
 
 ---
 
 ## 💡 Ask Me About
+- Secure coding practices and backend hardening
+- Python scripting and PowerShell automation in cybersecurity
+- Security tooling in Rust and Go
+- Transitioning from military to cybersecurity
+- Advanced SQL queries and indexing
 
-- Secure coding practices and effective threat mitigation techniques  
-- Python scripting and automation strategies in cybersecurity  
-- Building security tools in Rust and Go  
-- My journey from the Marine Corps to cybersecurity  
-- Advanced SQL queries, database indexing, and optimization tips
 
 ---
 
 ## 🆘 Areas Where I’d Love Help
+- Multi-threading and performance tuning for security tools
+- UX/UI design for full-stack security projects
+- Implementing cryptographic techniques and protocols
+- Advanced SQL indexing and optimization
 
-- Optimizing multi-threading and performance in cybersecurity tools  
-- Enhancing UI/UX for full-stack security projects  
-- Implementing advanced cryptographic techniques  
-- Deep diving into advanced SQL concepts for data management and query optimization
 
 ---
 
 ## 📫 How to Reach Me
 
-Feel free to connect or reach out through any of these channels:
+I’m always eager to learn, collaborate, and build secure systems.
 
 - **GitHub:** [Toast-stack](https://github.com/Toast-stack)  
 - **LinkedIn:** [Zachary Nicholas](https://www.linkedin.com/in/zachary-nicholas/)  
